@@ -1,0 +1,136 @@
+{
+  "version": 1,
+  "base_track": "PERFUME",
+  "base_artist": "Takanashi Kiara",
+  "createdAt": "2025-12-13T12:47:42.029821Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Candy Perfume Girl",
+      "artist": "Madonna",
+      "has_synced": true,
+      "path": "select/01_Candy_Perfume_Girl_Madonna.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Candy Perfume Girl",
+      "artist": "Madonna",
+      "has_synced": true,
+      "path": "select/02_Candy_Perfume_Girl_Madonna.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Perfume",
+      "artist": "Britney Spears",
+      "has_synced": true,
+      "path": "select/03_Perfume_Britney_Spears.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Perfume (The Dreaming Mix)",
+      "artist": "Britney Spears",
+      "has_synced": true,
+      "path": "select/04_Perfume_(The_Dreaming_Mix)_Britney_Spears.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Perfume-V",
+      "artist": "Pavement",
+      "has_synced": false,
+      "path": "select/05_Perfume-V_Pavement.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "At a Perfume Counter",
+      "artist": "Dave Brubeck",
+      "has_synced": false,
+      "path": "select/06_At_a_Perfume_Counter_Dave_Brubeck.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Perfume",
+      "artist": "Sparks",
+      "has_synced": true,
+      "path": "select/07_Perfume_Sparks.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Perfume (Clor’s Eau de Perfume Remix)",
+      "artist": "Sparks",
+      "has_synced": false,
+      "path": "select/08_Perfume_(Clor’s_Eau_de_Perfume_Remix)_Sparks.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Perfume (Radio Edit)",
+      "artist": "Sparks",
+      "has_synced": false,
+      "path": "select/09_Perfume_(Radio_Edit)_Sparks.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Perfume-V (Live Brixton Academy, London, Dec. 14, 1992)",
+      "artist": "Pavement",
+      "has_synced": true,
+      "path": "select/10_Perfume-V_(Live_Brixton_Academy,_London,_Dec._14,_1992)_Pavement.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Perfume-V (Live at Brixton Academy, Dec. 14, 1992)",
+      "artist": "Pavement",
+      "has_synced": true,
+      "path": "select/11_Perfume-V_(Live_at_Brixton_Academy,_Dec._14,_1992)_Pavement.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "PERFUME",
+      "artist": "Marilyn Manson",
+      "has_synced": false,
+      "path": "select/12_PERFUME_Marilyn_Manson.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "What's That Perfume That You Wear?",
+      "artist": "Jens Lekman",
+      "has_synced": true,
+      "path": "select/13_What's_That_Perfume_That_You_Wear_Jens_Lekman.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Candy Perfume Girl",
+      "artist": "Madonna",
+      "has_synced": true,
+      "path": "select/14_Candy_Perfume_Girl_Madonna.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Hollywood Perfume",
+      "artist": "Pretenders feat. Bob Clearmountain",
+      "has_synced": true,
+      "path": "select/15_Hollywood_Perfume_Pretenders_feat._Bob_Clearmountain.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "PERFUME",
+      "artist": "Takanashi Kiara",
+      "has_synced": false,
+      "path": "select/pl_01_PERFUME_Takanashi_Kiara.txt"
+    }
+  ]
+}
